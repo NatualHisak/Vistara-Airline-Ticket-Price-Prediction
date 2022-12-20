@@ -1,0 +1,2 @@
+deployment : https://huggingface.co/spaces/NatualHisak/Vistara-Airline-Price-Predictor
+file pkl : https://drive.google.com/file/d/1fum30warUTjC2COf71h3Vm0Kjp0dw0k0/view?usp=share_link
